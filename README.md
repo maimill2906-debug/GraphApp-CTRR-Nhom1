@@ -60,7 +60,6 @@ Xây dựng bằng **Python + Tkinter + NetworkX + Matplotlib**, phục vụ h�
 https://www.python.org/downloads/
 
 ### Cài thư viện
-pip install networkx
-pip install matplotlib
+```sh
 pip install networkx
 pip install matplotlib
